@@ -3,4 +3,4 @@ On Day 3, I created an Image UI changer. Where I use variable update by javascri
 
 # video 
 
-<video src="JS%20-%20Variable%20Change.mp4" controls title="Title"></video>
+<a href="https://youtu.be/fuX47yXgRSM">Click Here to See Video</a>

@@ -4,4 +4,4 @@ On Day 2, I created a clock using JavaScript. With the use of the date function,
 
 # video
 
-<video src="Video.mp4" controls title="Title"></video>
+<a href='https://youtu.be/fuX47yXgRSM'>Click Here to See Video</a>

@@ -6,7 +6,7 @@ In Javascript Drum Kit, I create a Javascript drum kit where the user can use ke
 
 # Video 
 
-<video src="Javascript%20Drum%20Kit%20Video.mp4" controls title="Title"></video>
+<a href="https://youtu.be/Istt24x94Z0">Click Here to See Video</a>
  
 # Where can I find this challenge?
 
