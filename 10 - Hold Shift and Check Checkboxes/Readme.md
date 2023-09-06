@@ -15,3 +15,7 @@ On Day 10 of our 30 Days JavaScript Challenge, we delved into the fascinating wo
 6. **Updating the Last Checked Checkbox**: After processing all checkboxes, we update the `lastChecked` variable to store the current checkbox. This ensures that our shift-click selection continues from the correct starting point the next time.
 
 By utilizing this code, we've created a dynamic and user-friendly way to select multiple checkboxes in a list by holding down the shift key and clicking. It enhances the user experience and makes managing checkbox selections more efficient. As we progress through our 30-day JavaScript challenge, we'll continue to explore and apply JavaScript concepts to build exciting and interactive web applications. Stay tuned for more exciting challenges ahead!
+
+# Video 
+
+<a href="https://youtu.be/ZaNx47wxu1c"></a>
