@@ -13,3 +13,7 @@ On Day 12 of our 30 Days JavaScript Challenge, I uncovered a fascinating trick u
 🕵️‍♂️ **Observing the Process**: Throughout the process, we logged the content of the `pressed` array, allowing us to see the keys pressed and how our code operates.
 
 This intriguing code allows us to create hidden easter eggs or interactive elements on websites. As we advance through our 30-day JavaScript journey, we'll continue to explore exciting JavaScript concepts and apply them in creative ways. Stay tuned for more enchanting discoveries ahead! 🪄✨
+
+# Video 
+
+<a href = "https://youtu.be/JvRyCFzngqE">Click here to see video</a>
