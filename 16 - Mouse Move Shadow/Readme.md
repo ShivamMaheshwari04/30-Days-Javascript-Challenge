@@ -11,3 +11,7 @@ On Day 16 of our 30 Days JavaScript Challenge, I delved into the world of dynami
 🎨 **Applying the Shadow**: With the calculated values in hand, we dynamically applied the text shadow to the `h1` element using `text.style.textShadow`. The result was a mesmerizing and interactive shadow effect that responded to mouse movement.
 
 By mastering this technique, we unlocked a creative way to enhance user experiences on web pages. As our 30-day JavaScript journey continues, we'll keep exploring captivating JavaScript concepts and apply them in innovative ways. Stay tuned for more exciting discoveries! 🚀🌈 #JavaScriptMagic #TextShadowEffect #WebDevelopment #30DaysJSChallenge
+
+# Video
+
+<a href="https://youtu.be/Z5_2kx0bqvI">Click here to see video</a>
