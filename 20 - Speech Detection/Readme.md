@@ -11,3 +11,8 @@ On Day 20 of our 30 Days JavaScript Challenge, I ventured into the fascinating w
 🔁 **Continuous Listening**: To keep the experience seamless, we ensured that speech recognition automatically restarted when it reached the end, allowing for continuous input.
 
 By mastering speech recognition, we've unlocked the ability to create applications that can transcribe spoken words into text, opening doors to voice-controlled and interactive experiences. As our 30-day JavaScript journey unfolds, we'll continue exploring exciting JavaScript concepts and their real-world applications. Stay tuned for more enlightening discoveries! 🚀🗣️ 
+
+
+# VIDEO
+
+<a href ="https://youtu.be/YOyWzJC-1AU">Click Here To See My Video</a>
